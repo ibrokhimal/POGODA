@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">POGODA</string>
+    <string name="first_button_text">КНОПКА</string>
 </resources>
